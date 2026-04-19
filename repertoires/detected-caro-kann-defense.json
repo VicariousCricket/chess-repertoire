@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "id": "detected-caro-kann-defense",
+    "name": "[detected] Caro-Kann Defense",
+    "side": "white",
+    "rootFen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+    "description": "Your e4 repertoire against c6. Detected from 39 rapid/classical games.",
+    "createdAt": "2026-04-18T22:15:50.778Z",
+    "updatedAt": "2026-04-18T22:15:50.778Z"
+  },
+  "positions": {
+    "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "d4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "d5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "e5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "Bf5",
+        "c5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nf3"
+      ],
+      "notes": "No clear preference: Nf3 (70%)",
+      "nag": null,
+      "eval": null
+    },
+    "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq -": {
+      "moves": [
+        "e6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq -": {
+      "moves": [
+        "Nbd2",
+        "Be2"
+      ],
+      "notes": "No clear preference: Nbd2 (30%); No clear preference: Be2 (30%)",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/8/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "c3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/8/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "Nc6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkbnr/pp2pppp/2n5/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nf3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkbnr/pp2pppp/2n5/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq -": {
+      "moves": [
+        "Bg4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r2qkbnr/pp2pppp/2n5/2ppP3/3P2b1/2P2N2/PP3PPP/RNBQKB1R w KQkq -": {
+      "moves": [
+        "Be2"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    }
+  }
+}

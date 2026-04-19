@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": "detected-white-vs-1-b6",
+    "name": "[detected] White vs 1...b6",
+    "side": "white",
+    "rootFen": "rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+    "description": "Your e4 repertoire against b6. Detected from 7 rapid/classical games.",
+    "createdAt": "2026-04-18T22:15:50.780Z",
+    "updatedAt": "2026-04-18T22:15:50.780Z"
+  },
+  "positions": {
+    "rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "d4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/p1pppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "Bb7"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rn1qkbnr/pbpppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Bd3",
+        "Nc3"
+      ],
+      "notes": "No clear preference: Bd3 (57%); No clear preference: Nc3 (43%)",
+      "nag": null,
+      "eval": null
+    }
+  }
+}

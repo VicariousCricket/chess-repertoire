@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "id": "detected-sicilian-defense",
+    "name": "[detected] Sicilian Defense",
+    "side": "black",
+    "rootFen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
+    "description": "Your c5 repertoire against e4. Detected from 253 rapid/classical games.",
+    "createdAt": "2026-04-18T22:15:50.785Z",
+    "updatedAt": "2026-04-18T22:15:50.785Z"
+  },
+  "positions": {
+    "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "c5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nf3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -": {
+      "moves": [
+        "d6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -": {
+      "moves": [
+        "d4",
+        "Bc4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -": {
+      "moves": [
+        "cxd4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq -": {
+      "moves": [
+        "Nxd4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq -": {
+      "moves": [
+        "Nf6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -": {
+      "moves": [
+        "Nc3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq -": {
+      "moves": [
+        "g6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -": {
+      "moves": [
+        "Be3",
+        "Bc4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq -": {
+      "moves": [
+        "Bg7"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq -": {
+      "moves": [
+        "Be2",
+        "f3",
+        "Qd2"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pp2pp1p/3p1np1/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq -": {
+      "moves": [
+        "Bg7"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqk2r/pp2ppbp/3p1np1/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq -": {
+      "moves": [
+        "O-O",
+        "Be3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp2pppp/3p4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -": {
+      "moves": [
+        "Nc6",
+        "Nf6"
+      ],
+      "notes": "No clear preference: Nc6 (43%); No clear preference: Nf6 (43%)",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -": {
+      "moves": [
+        "O-O"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq -": {
+      "moves": [
+        "Nf6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkb1r/pp2pppp/2np1n2/2p5/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq -": {
+      "moves": [
+        "Nc3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkb1r/pp2pppp/2np1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -": {
+      "moves": [
+        "g6"
+      ],
+      "notes": "No clear preference: g6 (60%)",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -": {
+      "moves": [
+        "Nc3",
+        "d3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -": {
+      "moves": [
+        "g6",
+        "Nc6"
+      ],
+      "notes": "No clear preference: g6 (60%); No clear preference: Nc6 (40%)",
+      "nag": null,
+      "eval": null
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "id": "detected-nf6-vs-1-d4",
+    "name": "[detected] Nf6 vs 1.d4",
+    "side": "black",
+    "rootFen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -",
+    "description": "Your Nf6 repertoire against d4. Detected from 115 rapid/classical games.",
+    "createdAt": "2026-04-18T22:15:50.783Z",
+    "updatedAt": "2026-04-18T22:15:50.783Z"
+  },
+  "positions": {
+    "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "Nf6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "c4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "g6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nc3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq -": {
+      "moves": [
+        "Bg7"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq -": {
+      "moves": [
+        "e4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq -": {
+      "moves": [
+        "d6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq -": {
+      "moves": [
+        "Nf3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq -": {
+      "moves": [
+        "O-O"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ -": {
+      "moves": [
+        "Be2"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ -": {
+      "moves": [
+        "e5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ -": {
+      "moves": [
+        "dxe5",
+        "d5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    }
+  }
+}

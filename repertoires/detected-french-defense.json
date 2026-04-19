@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "id": "detected-french-defense",
+    "name": "[detected] French Defense",
+    "side": "white",
+    "rootFen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+    "description": "Your e4 repertoire against e6. Detected from 40 rapid/classical games.",
+    "createdAt": "2026-04-18T22:15:50.763Z",
+    "updatedAt": "2026-04-19T00:23:31.047Z"
+  },
+  "positions": {
+    "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "d4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "d5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "e5",
+        "Nc3"
+      ],
+      "notes": "Alt: Nc3 (25% in 7 games)",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "c5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "c3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "Nc6",
+        "Qb6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nf3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq -": {
+      "moves": [
+        "Qb6",
+        "Bd7"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnb1kbnr/pp3ppp/1q2p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nf3"
+      ],
+      "notes": "No clear preference: Nf3 (67%)",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -": {
+      "moves": [
+        "Bb4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    }
+  }
+}

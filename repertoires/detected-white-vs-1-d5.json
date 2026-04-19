@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "detected-white-vs-1-d5",
+    "name": "[detected] White vs 1...d5",
+    "side": "white",
+    "rootFen": "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+    "description": "Your e4 repertoire against d5. Detected from 26 rapid/classical games.",
+    "createdAt": "2026-04-18T22:15:50.777Z",
+    "updatedAt": "2026-04-18T22:15:50.777Z"
+  },
+  "positions": {
+    "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "exd5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "Qxd5",
+        "Nf6"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nc3"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq -": {
+      "moves": [
+        "Qd8",
+        "Qa5"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/ppp1pppp/8/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq -": {
+      "moves": [
+        "d4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnb1kbnr/ppp1pppp/8/q7/8/2N5/PPPP1PPP/R1BQKBNR w KQkq -": {
+      "moves": [
+        "d4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "d4",
+        "Nc3"
+      ],
+      "notes": "No clear preference: d4 (40%); No clear preference: Nc3 (30%)",
+      "nag": null,
+      "eval": null
+    }
+  }
+}

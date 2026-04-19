@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "id": "detected-white-vs-1-g6",
+    "name": "[detected] White vs 1...g6",
+    "side": "white",
+    "rootFen": "rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
+    "description": "Your e4 repertoire against g6. Detected from 11 rapid/classical games.",
+    "createdAt": "2026-04-18T22:15:50.781Z",
+    "updatedAt": "2026-04-18T22:15:50.781Z"
+  },
+  "positions": {
+    "rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "d4"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -": {
+      "moves": [
+        "Bg7"
+      ],
+      "notes": "",
+      "nag": null,
+      "eval": null
+    },
+    "rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -": {
+      "moves": [
+        "Nf3"
+      ],
+      "notes": "No clear preference: Nf3 (40%)",
+      "nag": null,
+      "eval": null
+    }
+  }
+}
