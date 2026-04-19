@@ -6,7 +6,7 @@
     "rootFen": "rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
     "description": "Your e4 repertoire against d6. Detected from 12 rapid/classical games.",
     "createdAt": "2026-04-18T22:15:50.779Z",
-    "updatedAt": "2026-04-18T22:15:50.779Z"
+    "updatedAt": "2026-04-19T00:30:39.915Z"
   },
   "positions": {
     "rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
@@ -15,7 +15,33 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 52,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "d2d4",
+          "g8f6",
+          "b1c3",
+          "e7e5",
+          "g1f3",
+          "b8d7",
+          "f1c4",
+          "f8e7",
+          "e1g1",
+          "c7c6",
+          "a2a4",
+          "a7a5",
+          "h2h3",
+          "e8g8",
+          "f1e1",
+          "e5d4",
+          "f3d4",
+          "f8e8",
+          "c1f4"
+        ],
+        "evaluatedAt": "2026-04-19T00:30:37.495Z"
+      }
     },
     "rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -": {
       "moves": [
@@ -23,7 +49,38 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 48,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "g8f6",
+          "b1c3",
+          "e7e5",
+          "g1f3",
+          "b8d7",
+          "f1c4",
+          "f8e7",
+          "e1g1",
+          "c7c6",
+          "a2a4",
+          "a7a5",
+          "h2h3",
+          "e8g8",
+          "f1e1",
+          "f8e8",
+          "c1e3",
+          "h7h6",
+          "d4d5",
+          "d7b6",
+          "f3d2",
+          "e7f8",
+          "d1f3",
+          "c8d7",
+          "a1d1"
+        ],
+        "evaluatedAt": "2026-04-19T00:30:38.253Z"
+      }
     },
     "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -": {
       "moves": [
@@ -31,7 +88,36 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 49,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b1c3",
+          "e7e5",
+          "g1f3",
+          "b8d7",
+          "a2a4",
+          "f8e7",
+          "f1c4",
+          "e8g8",
+          "e1g1",
+          "a7a5",
+          "h2h3",
+          "c7c6",
+          "c1e3",
+          "h7h6",
+          "d1e2",
+          "e5d4",
+          "f3d4",
+          "f8e8",
+          "f2f4",
+          "e7f8",
+          "e2f3",
+          "d7c5"
+        ],
+        "evaluatedAt": "2026-04-19T00:30:39.258Z"
+      }
     },
     "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -": {
       "moves": [
@@ -39,7 +125,35 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 53,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "e7e5",
+          "g1f3",
+          "b8d7",
+          "a2a4",
+          "f8e7",
+          "f1c4",
+          "e8g8",
+          "e1g1",
+          "a7a5",
+          "h2h3",
+          "c7c6",
+          "c1e3",
+          "h7h6",
+          "f3d2",
+          "e5d4",
+          "e3d4",
+          "d7e5",
+          "f2f4",
+          "e5c4",
+          "d2c4",
+          "d6d5"
+        ],
+        "evaluatedAt": "2026-04-19T00:30:39.914Z"
+      }
     }
   }
 }

@@ -6,7 +6,7 @@
     "rootFen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -",
     "description": "Your c5 repertoire against e4. Detected from 253 rapid/classical games.",
     "createdAt": "2026-04-18T22:15:50.785Z",
-    "updatedAt": "2026-04-18T22:15:50.785Z"
+    "updatedAt": "2026-04-19T00:29:20.939Z"
   },
   "positions": {
     "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -": {
@@ -15,7 +15,39 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 42,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "e7e5",
+          "g1f3",
+          "b8c6",
+          "d2d4",
+          "e5d4",
+          "f3d4",
+          "g8f6",
+          "d4c6",
+          "b7c6",
+          "f1d3",
+          "d7d5",
+          "e4e5",
+          "f6g4",
+          "e1g1",
+          "f8c5",
+          "d1e2",
+          "d8e7",
+          "c1f4",
+          "f7f6",
+          "e5f6",
+          "e7e2",
+          "d3e2",
+          "e8g8",
+          "f4c7",
+          "g4f6"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:48.071Z"
+      }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
       "moves": [
@@ -23,7 +55,33 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 30,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "g1f3",
+          "b8c6",
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "g7g6",
+          "b1c3",
+          "f8g7",
+          "c1e3",
+          "g8f6",
+          "d4b3",
+          "e8g8",
+          "f1e2",
+          "a8b8",
+          "e1g1",
+          "d7d6",
+          "d1d2",
+          "a7a6",
+          "e3h6"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:49.736Z"
+      }
     },
     "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -": {
       "moves": [
@@ -31,7 +89,42 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 30,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b8c6",
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "g7g6",
+          "b1c3",
+          "f8g7",
+          "c1e3",
+          "g8f6",
+          "f1e2",
+          "d7d6",
+          "d4b3",
+          "c8e6",
+          "d1d2",
+          "d6d5",
+          "e1c1",
+          "f6e4",
+          "c3e4",
+          "d5e4",
+          "d2d8",
+          "a8d8",
+          "d1d8",
+          "e8d8",
+          "b3c5",
+          "e6a2",
+          "b2b3",
+          "d8c8",
+          "h1d1"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:52.244Z"
+      }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -": {
       "moves": [
@@ -40,7 +133,36 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 51,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "b8c6",
+          "b1c3",
+          "a7a6",
+          "f1e2",
+          "g8f6",
+          "c1g5",
+          "e7e6",
+          "d1d2",
+          "c6d4",
+          "d2d4",
+          "f8e7",
+          "e1c1",
+          "c8d7",
+          "f2f4",
+          "d7c6",
+          "g2g4",
+          "h7h6",
+          "g5h4",
+          "a8c8"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:53.162Z"
+      }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -": {
       "moves": [
@@ -48,7 +170,37 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 46,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "c5d4",
+          "f3d4",
+          "g8f6",
+          "b1c3",
+          "b8c6",
+          "c1g5",
+          "e7e6",
+          "d1d2",
+          "f8e7",
+          "e1c1",
+          "c6d4",
+          "d2d4",
+          "e8g8",
+          "h2h4",
+          "c8d7",
+          "f1e2",
+          "d8c7",
+          "c1b1",
+          "h7h6",
+          "g5e3",
+          "f8c8",
+          "g2g4",
+          "b7b5"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:54.586Z"
+      }
     },
     "rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq -": {
       "moves": [
@@ -56,7 +208,39 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 48,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "f3d4",
+          "g8f6",
+          "b1c3",
+          "b8c6",
+          "c1g5",
+          "e7e6",
+          "d1d2",
+          "f8e7",
+          "e1c1",
+          "c6d4",
+          "d2d4",
+          "e8g8",
+          "h2h4",
+          "c8d7",
+          "c1b1",
+          "d8c7",
+          "d4d2",
+          "d7c6",
+          "f2f3",
+          "a7a6",
+          "g2g4",
+          "b7b5",
+          "c3e2",
+          "a8b8",
+          "e2d4"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:55.458Z"
+      }
     },
     "rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq -": {
       "moves": [
@@ -64,7 +248,34 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 50,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "g8f6",
+          "b1c3",
+          "b8c6",
+          "c1g5",
+          "e7e6",
+          "d1d2",
+          "f8e7",
+          "e1c1",
+          "c6d4",
+          "d2d4",
+          "e8g8",
+          "h2h4",
+          "h7h6",
+          "g5d2",
+          "e6e5",
+          "d4d3",
+          "c8e6",
+          "f1e2",
+          "a8c8",
+          "c1b1"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:56.235Z"
+      }
     },
     "rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -": {
       "moves": [
@@ -72,7 +283,43 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 44,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b1c3",
+          "b8c6",
+          "c3d5",
+          "f6d5",
+          "e4d5",
+          "d8a5",
+          "c1d2",
+          "a5d5",
+          "d4b5",
+          "d5e5",
+          "f1e2",
+          "a8b8",
+          "e1g1",
+          "a7a6",
+          "b5c7",
+          "e8d8",
+          "d2c3",
+          "e5c5",
+          "c7d5",
+          "e7e6",
+          "d5f4",
+          "d8e8",
+          "f1e1",
+          "c5g5",
+          "g2g3",
+          "e6e5",
+          "e2h5",
+          "g5d8",
+          "f4d5"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:58.008Z"
+      }
     },
     "rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq -": {
       "moves": [
@@ -80,7 +327,36 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 46,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b8c6",
+          "c1g5",
+          "e7e6",
+          "d1d2",
+          "a7a6",
+          "e1c1",
+          "f8e7",
+          "f2f4",
+          "c8d7",
+          "d4f3",
+          "h7h6",
+          "g5h4",
+          "a8c8",
+          "e4e5",
+          "d6e5",
+          "f4e5",
+          "f6d5",
+          "c3d5",
+          "e6d5",
+          "h4e7",
+          "d8e7",
+          "d2d5"
+        ],
+        "evaluatedAt": "2026-04-19T00:28:59.333Z"
+      }
     },
     "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -": {
       "moves": [
@@ -89,7 +365,34 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 53,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "c1e3",
+          "b8c6",
+          "f2f3",
+          "h7h5",
+          "f1c4",
+          "f8g7",
+          "d1d2",
+          "c6a5",
+          "c4d3",
+          "a7a6",
+          "e1c1",
+          "b7b5",
+          "h1e1",
+          "e8g8",
+          "b2b4",
+          "e7e5",
+          "b4a5",
+          "e5d4",
+          "e3d4",
+          "d8a5"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:02.206Z"
+      }
     },
     "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq -": {
       "moves": [
@@ -97,7 +400,37 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 56,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b8c6",
+          "f2f3",
+          "h7h5",
+          "h2h3",
+          "a7a6",
+          "d1d2",
+          "c6d4",
+          "e3d4",
+          "f8h6",
+          "f3f4",
+          "e7e5",
+          "d4e3",
+          "c8e6",
+          "e1c1",
+          "d8e7",
+          "f1e2",
+          "e8c8",
+          "f4f5",
+          "h6e3",
+          "d2e3",
+          "g6f5",
+          "e4f5",
+          "e6f5"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:04.255Z"
+      }
     },
     "rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq -": {
       "moves": [
@@ -107,7 +440,33 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 67,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "f2f3",
+          "h7h5",
+          "d1d2",
+          "a7a6",
+          "h2h3",
+          "b8d7",
+          "f1e2",
+          "b7b6",
+          "e1c1",
+          "b6b5",
+          "d4c6",
+          "d8c7",
+          "c6b4",
+          "c8b7",
+          "g2g4",
+          "h5g4",
+          "h3g4",
+          "h8h1",
+          "d1h1"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:06.854Z"
+      }
     },
     "rnbqkb1r/pp2pp1p/3p1np1/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq -": {
       "moves": [
@@ -115,7 +474,40 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 38,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b8c6",
+          "d4c6",
+          "b7c6",
+          "e4e5",
+          "f6g4",
+          "e5d6",
+          "d8d6",
+          "d1d6",
+          "e7d6",
+          "c1f4",
+          "f8e7",
+          "c4b3",
+          "e8g8",
+          "h2h3",
+          "g4f6",
+          "e1c1",
+          "d6d5",
+          "h1e1",
+          "c8e6",
+          "c3e2",
+          "c6c5",
+          "f2f3",
+          "d5d4",
+          "b3e6",
+          "f7e6",
+          "c1b1"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:09.298Z"
+      }
     },
     "rnbqk2r/pp2ppbp/3p1np1/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq -": {
       "moves": [
@@ -124,7 +516,29 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 35,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "f2f3",
+          "d8b6",
+          "c4b5",
+          "b8c6",
+          "c1e3",
+          "b6c7",
+          "d1d2",
+          "e8g8",
+          "b5a4",
+          "c8d7",
+          "a4b3",
+          "c6d4",
+          "e3d4",
+          "b7b5",
+          "e1c1"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:11.139Z"
+      }
     },
     "rnbqkbnr/pp2pppp/3p4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -": {
       "moves": [
@@ -133,7 +547,39 @@
       ],
       "notes": "No clear preference: Nc6 (43%); No clear preference: Nf6 (43%)",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 34,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "g8f6",
+          "b1c3",
+          "e7e6",
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "a7a6",
+          "c4b3",
+          "f8e7",
+          "d1f3",
+          "d8c7",
+          "c1e3",
+          "b7b5",
+          "e1c1",
+          "b5b4",
+          "c3e2",
+          "c8b7",
+          "b3e6",
+          "f7e6",
+          "d4e6",
+          "c7c4",
+          "e6g7",
+          "e8f7",
+          "g7f5",
+          "b7e4"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:12.593Z"
+      }
     },
     "r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -": {
       "moves": [
@@ -141,7 +587,34 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 40,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "g8f6",
+          "b1c3",
+          "e7e6",
+          "c1e3",
+          "d6d5",
+          "e4d5",
+          "e6d5",
+          "c4b5",
+          "c8d7",
+          "e1g1",
+          "f8b4",
+          "d4e2",
+          "d7e6",
+          "b5c6",
+          "b7c6",
+          "e2d4",
+          "c6c5"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:14.385Z"
+      }
     },
     "r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq -": {
       "moves": [
@@ -149,7 +622,37 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 22,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "g8f6",
+          "f1e1",
+          "g7g6",
+          "c2c3",
+          "f8g7",
+          "d2d4",
+          "c5d4",
+          "c3d4",
+          "c8g4",
+          "b1c3",
+          "g4f3",
+          "g2f3",
+          "e7e5",
+          "d4e5",
+          "d6e5",
+          "c1g5",
+          "e8g8",
+          "c3d5",
+          "g8h8",
+          "d5f6",
+          "g7f6",
+          "d1d8",
+          "f6d8"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:16.083Z"
+      }
     },
     "r1bqkb1r/pp2pppp/2np1n2/2p5/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq -": {
       "moves": [
@@ -157,7 +660,44 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 22,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "f1e1",
+          "g7g6",
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "f8g7",
+          "h2h3",
+          "c6d4",
+          "d1d4",
+          "e8g8",
+          "b1c3",
+          "d8c7",
+          "c1e3",
+          "a7a6",
+          "a2a4",
+          "c8e6",
+          "c4e6",
+          "f7e6",
+          "d4b4",
+          "f6d7",
+          "b4b3",
+          "d7c5",
+          "e3c5",
+          "c7c5",
+          "b3e6",
+          "g8h8",
+          "e1e2",
+          "g7c3",
+          "b2c3",
+          "c5c3"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:17.089Z"
+      }
     },
     "r1bqkb1r/pp2pppp/2np1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq -": {
       "moves": [
@@ -165,7 +705,39 @@
       ],
       "notes": "No clear preference: g6 (60%)",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 20,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "c8g4",
+          "h2h3",
+          "g4f3",
+          "d1f3",
+          "g7g6",
+          "c4b5",
+          "f6d7",
+          "b5c6",
+          "b7c6",
+          "b2b3",
+          "f8g7",
+          "c1b2",
+          "g7d4",
+          "f3d3",
+          "d8b6",
+          "c3d1",
+          "e8g8",
+          "h3h4",
+          "d7e5",
+          "d3h3",
+          "f7f5",
+          "h4h5",
+          "d4b2",
+          "d1b2",
+          "f5e4"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:18.885Z"
+      }
     },
     "rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -": {
       "moves": [
@@ -174,7 +746,41 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 25,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b1c3",
+          "e7e6",
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "a7a6",
+          "c4b3",
+          "b7b5",
+          "f2f3",
+          "f8e7",
+          "c1e3",
+          "e8g8",
+          "g2g4",
+          "f6d7",
+          "d1d2",
+          "e7h4",
+          "e3f2",
+          "b5b4",
+          "c3a4",
+          "h4f2",
+          "d2f2",
+          "a6a5",
+          "e1c1",
+          "d7c5",
+          "a4c5",
+          "d6c5",
+          "d4b5"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:19.975Z"
+      }
     },
     "rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -": {
       "moves": [
@@ -183,7 +789,43 @@
       ],
       "notes": "No clear preference: g6 (60%); No clear preference: Nc6 (40%)",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 28,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "a7a6",
+          "d2d4",
+          "c5d4",
+          "f3d4",
+          "b7b5",
+          "c4d5",
+          "f6d5",
+          "e4d5",
+          "g7g6",
+          "e1g1",
+          "f8g7",
+          "f1e1",
+          "e8g8",
+          "h2h4",
+          "b5b4",
+          "c3e4",
+          "c8b7",
+          "c2c4",
+          "b4c3",
+          "e4c3",
+          "d8b6",
+          "c1e3",
+          "b6b2",
+          "a1b1",
+          "b2c3",
+          "b1b7",
+          "c3a5",
+          "b7e7",
+          "a5d5"
+        ],
+        "evaluatedAt": "2026-04-19T00:29:20.938Z"
+      }
     }
   }
 }
