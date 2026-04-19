@@ -6,7 +6,7 @@
     "rootFen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -",
     "description": "Your e4 repertoire against c6. Detected from 39 rapid/classical games.",
     "createdAt": "2026-04-18T22:15:50.778Z",
-    "updatedAt": "2026-04-18T22:15:50.778Z"
+    "updatedAt": "2026-04-19T00:24:55.135Z"
   },
   "positions": {
     "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -": {
@@ -15,7 +15,32 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 37,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "d2d4",
+          "d7d5",
+          "e4e5",
+          "c8f5",
+          "h2h4",
+          "h7h5",
+          "c2c4",
+          "e7e6",
+          "b1c3",
+          "f8b4",
+          "g1e2",
+          "g8e7",
+          "a2a3",
+          "b4c3",
+          "e2c3",
+          "d5c4",
+          "f1c4",
+          "e8g8"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:34.905Z"
+      }
     },
     "rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -": {
       "moves": [
@@ -23,7 +48,34 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 33,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "d7d5",
+          "e4e5",
+          "c8f5",
+          "g1f3",
+          "e7e6",
+          "f1e2",
+          "f5g6",
+          "c2c3",
+          "c6c5",
+          "e1g1",
+          "b8c6",
+          "c1e3",
+          "g8e7",
+          "d4c5",
+          "e7f5",
+          "b2b4",
+          "f5e3",
+          "f2e3",
+          "f8e7",
+          "f3d4"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:36.361Z"
+      }
     },
     "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -": {
       "moves": [
@@ -31,7 +83,33 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 42,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "e4e5",
+          "c8f5",
+          "b1d2",
+          "e7e6",
+          "d2b3",
+          "b8d7",
+          "g1f3",
+          "g8e7",
+          "f1e2",
+          "f5g4",
+          "e1g1",
+          "a7a5",
+          "a2a4",
+          "e7f5",
+          "f3e1",
+          "g4e2",
+          "d1e2",
+          "f8e7",
+          "c2c3"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:38.880Z"
+      }
     },
     "rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq -": {
       "moves": [
@@ -40,7 +118,33 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 41,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "c8f5",
+          "b1d2",
+          "e7e6",
+          "d2b3",
+          "b8d7",
+          "g1f3",
+          "c6c5",
+          "f1e2",
+          "c5c4",
+          "b3d2",
+          "f5g6",
+          "b2b3",
+          "b7b5",
+          "a2a4",
+          "a7a6",
+          "h2h4",
+          "h7h5",
+          "e1g1",
+          "c4c3"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:40.093Z"
+      }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq -": {
       "moves": [
@@ -48,7 +152,36 @@
       ],
       "notes": "No clear preference: Nf3 (70%)",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 39,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b1d2",
+          "e7e6",
+          "d2b3",
+          "b8d7",
+          "g1f3",
+          "c6c5",
+          "d4c5",
+          "f8c5",
+          "b3c5",
+          "d7c5",
+          "c1e3",
+          "d8c7",
+          "f3d4",
+          "g8e7",
+          "d4b5",
+          "c7e5",
+          "d1d4",
+          "e5d4",
+          "e3d4",
+          "c5a6",
+          "b5d6",
+          "e8f8"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:41.033Z"
+      }
     },
     "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq -": {
       "moves": [
@@ -56,7 +189,40 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 30,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "e7e6",
+          "f1e2",
+          "c6c5",
+          "e1g1",
+          "b8c6",
+          "c2c3",
+          "f5g6",
+          "a2a3",
+          "c5d4",
+          "c3d4",
+          "g8e7",
+          "b1c3",
+          "e7f5",
+          "g2g4",
+          "f5h4",
+          "f3h4",
+          "d8h4",
+          "c3b5",
+          "h7h5",
+          "b5c7",
+          "e8d7",
+          "c7a8",
+          "h5g4",
+          "c1f4",
+          "f8e7",
+          "e2g4"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:42.828Z"
+      }
     },
     "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq -": {
       "moves": [
@@ -65,7 +231,31 @@
       ],
       "notes": "No clear preference: Nbd2 (30%); No clear preference: Be2 (30%)",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 29,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "c2c3",
+          "c6c5",
+          "f1b5",
+          "b8c6",
+          "e1g1",
+          "a8c8",
+          "c1g5",
+          "f8e7",
+          "g5e3",
+          "a7a6",
+          "b5c6",
+          "c8c6",
+          "d4c5",
+          "e7c5",
+          "e3c5",
+          "c6c5",
+          "f3d4"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:43.427Z"
+      }
     },
     "rnbqkbnr/pp2pppp/8/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq -": {
       "moves": [
@@ -73,7 +263,39 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 47,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "g1f3",
+          "c5d4",
+          "f3d4",
+          "e7e6",
+          "b1d2",
+          "g8e7",
+          "d2f3",
+          "b8c6",
+          "c2c3",
+          "e7g6",
+          "d4c6",
+          "b7c6",
+          "f1d3",
+          "f8e7",
+          "d1e2",
+          "d8c7",
+          "h2h4",
+          "f7f6",
+          "e5f6",
+          "g7f6",
+          "h4h5",
+          "g6f4",
+          "c1f4",
+          "c7f4",
+          "h5h6"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:45.415Z"
+      }
     },
     "rnbqkbnr/pp2pppp/8/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq -": {
       "moves": [
@@ -81,7 +303,42 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 28,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "b8c6",
+          "f1e2",
+          "c8f5",
+          "g1f3",
+          "e7e6",
+          "e1g1",
+          "f5g6",
+          "c1e3",
+          "d8b6",
+          "c3c4",
+          "b6b2",
+          "c4d5",
+          "e6d5",
+          "d4c5",
+          "g8e7",
+          "b1d2",
+          "e7f5",
+          "a1b1",
+          "f5e3",
+          "b1b2",
+          "e3d1",
+          "f1d1",
+          "e8c8",
+          "d2b3",
+          "h7h5",
+          "f3d4",
+          "c6d4",
+          "d1d4"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:46.536Z"
+      }
     },
     "r1bqkbnr/pp2pppp/2n5/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq -": {
       "moves": [
@@ -89,7 +346,32 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 33,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "f1b5",
+          "c5d4",
+          "c3d4",
+          "c8f5",
+          "b1c3",
+          "e7e6",
+          "g1e2",
+          "g8e7",
+          "e2g3",
+          "h7h6",
+          "e1g1",
+          "f5g6",
+          "c1e3",
+          "h6h5",
+          "b5e2",
+          "h5h4",
+          "g3h5",
+          "e7f5"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:47.948Z"
+      }
     },
     "r1bqkbnr/pp2pppp/2n5/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq -": {
       "moves": [
@@ -97,7 +379,29 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 0,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "c5d4",
+          "c3d4",
+          "c8g4",
+          "b1d2",
+          "e7e6",
+          "h2h3",
+          "g4h5",
+          "f1e2",
+          "g8e7",
+          "e1g1",
+          "d8b6",
+          "d1a4",
+          "b6b4",
+          "a4d1",
+          "b4b6"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:49.877Z"
+      }
     },
     "r2qkbnr/pp2pppp/2n5/2ppP3/3P2b1/2P2N2/PP3PPP/RNBQKB1R w KQkq -": {
       "moves": [
@@ -105,7 +409,32 @@
       ],
       "notes": "",
       "nag": null,
-      "eval": null
+      "eval": {
+        "score": 54,
+        "mate": null,
+        "depth": 20,
+        "pv": [
+          "d4c5",
+          "a7a6",
+          "b1d2",
+          "c6e5",
+          "f1e2",
+          "e5c6",
+          "e1g1",
+          "g8f6",
+          "h2h3",
+          "g4f3",
+          "e2f3",
+          "e7e5",
+          "b2b4",
+          "e5e4",
+          "f3e2",
+          "g7g6",
+          "d2b3",
+          "f8g7"
+        ],
+        "evaluatedAt": "2026-04-19T00:24:51.853Z"
+      }
     }
   }
 }
